@@ -5,7 +5,7 @@ The machines are coming, and they’re going to take all of our jobs and leave u
 
 Recent survey work suggests that the rise of the machines is a concern for many people, and has certainly been a meme in common business media of many forms. This is somewhat understandable, as it may be more appropriate to pose the question: ‘what can’t we use machine learning to improve?’rather than posing its negation. The number of tasks that computers can perform better than humans is growing by the day: diagnosing medical conditions, recommending music, and categorizing documents are just a few on the list. 
 
-But as every entity has its strengths and weaknesses, the existence of a performance gap with regard to certain tasks doesn’t necessarily make machines an alternative to humans. Rather than viewing the intersection as a competition: algorithms vs. interaction designers, we should turn the focus to the collaboration of algorithms and designers. By first focusing on the design of the process rather than the product, we open the door to countless possibilities.    
+But as every entity has its strengths and weaknesses, the existence this performance gap doesn’t necessarily make machines an alternative to humans. Rather than viewing the intersection as a competition: algorithms vs. interaction designers, by celebrating the collaboration of algorithms and designers and first focusing on the design of the process rather than the product, we open the door to countless possibilities.    
 
 
 
